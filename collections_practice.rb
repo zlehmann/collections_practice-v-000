@@ -4,3 +4,4 @@ end
 
 def sort_array_desc(array)
   ints.sort! {|x,y| y <=> x}
+end
